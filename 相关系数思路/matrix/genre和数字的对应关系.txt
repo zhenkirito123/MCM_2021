@@ -1,0 +1,22 @@
+# genre和数字的对应关系
+
+{'Jazz': 0,
+ 'Easy Listening': 1,
+ 'Pop/Rock': 2,
+ 'Stage & Screen': 3,
+ 'Vocal': 4,
+ 'R&B;': 5,
+ 'Blues': 6,
+ 'Folk': 7,
+ 'Religious': 8,
+ 'International': 9,
+ 'Country': 10,
+ 'Latin': 11,
+ 'Classical': 12,
+ 'Reggae': 13,
+ 'Comedy/Spoken': 14,
+ 'Avant-Garde': 15,
+ 'Electronic': 16,
+ "Children's": 17,
+ 'New Age': 18,
+ 'Unknown': 19}
